@@ -30,7 +30,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DAbrHub.png"/>
 </p>
 <p>
 Create a Resource Group
@@ -50,7 +50,11 @@ Create a Resource Group
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/41AvWTL.png"/>
+</p>
+<p>
+  <p>
+<img src="https://i.imgur.com/dRCCOOp.png"/>
 </p>
 <p>
 Observe ICMP Traffic
@@ -81,7 +85,7 @@ Observe ICMP Traffic
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sDuLR2j.png"/>
 </p>
 <p>
 Observe SSH Traffic
@@ -97,7 +101,7 @@ Observe SSH Traffic
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EFhtNRl.png"/>
 </p>
 <p>
 Observe DHCP Traffic
@@ -111,7 +115,7 @@ Observe DHCP Traffic
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4hlUXXo.png"/>
 </p>
 <p>
 Observe DNS Traffic
@@ -125,7 +129,7 @@ Observe DNS Traffic
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qQprChd.png"/>
 </p>
 <p>
 Observe RDP Traffic
